@@ -1,5 +1,5 @@
 import React from 'react'
-import choose from "../assets/Choose.png"
+import choose from "../assets/choose.png"
 import point from "../assets/point.png"
 
 const Choose = () => {

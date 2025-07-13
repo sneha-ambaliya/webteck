@@ -17,14 +17,12 @@ const reviews = [
     {
         text: "“Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Globally plagiarize ermandated opportunities with. Progressively leverage others multifunctional methods.”",
         name: "MD Sumon Mia",
-        name: "Ayesha Rahman",
         role: "Marketing Head at SoftHub",
         avatar: avatar1
     },
     {
         text: "“Dynamically innovate resource-leveling customer service for state of the art customer service. Objectively innovate empowered manufactured products. Globally plagiarize ermandated opportunities with. Progressively leverage others multifunctional methods.”",
         name: "MD Sumon Mia",
-        name: "Rifat Hossain",
         role: "CTO at CodeNest",
         avatar: avatar1
     },
